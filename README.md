@@ -45,8 +45,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <!-- Animated Snake -->
-  ![Snake animation](https://github.com/preetamlenka3/preetamlenka3/blob/output/github-contribution-grid-snake.svg)
-  
+   <img src="https://github.com/preetamlenka3/preetamlenka3/blob/output/github-contribution-grid-snake.svg" alt="GitHub" />
   <br/><br/><br/>
 </div>
 
@@ -60,8 +59,6 @@
     <br>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=preetamlenka3&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak" />
   <br/>
   <!-- Top Languages -->
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetamlenka3&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
