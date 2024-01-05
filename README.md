@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Django, Python, Sql**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/preetamlenka3/preetamlenka3/issues)**
+💬 Ask me about **Django, Python, Sql, Firebase... or anything [here](https://github.com/preetamlenka3/preetamlenka3/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -58,9 +58,10 @@
 <div align=center>
   <!-- GitHub Stats -->
   <img src="https://streak-stats.demolab.com?user=preetamlenka3&theme=dark" alt="GitHub Streak" />
-    <br>
+    <br/>
+    <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=preetamlenka3&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br>
+    <br/>
   <br/>
   <!-- Top Languages -->
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetamlenka3&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
