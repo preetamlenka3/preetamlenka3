@@ -56,7 +56,6 @@
 <br>
 <div align=center>
   <!-- GitHub Stats -->
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=preetamlenka3&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img src="https://streak-stats.demolab.com?user=preetamlenka3&theme=dark" alt="GitHub Streak" />
     <br>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=preetamlenka3&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
