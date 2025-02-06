@@ -83,6 +83,7 @@
 <div align="center">
   <!-- Visitor Counter -->
   <img src="https://hits.dwyl.com/preetamlenka3/preetamlenka3.svg" />
+    [![HitCount](https://hits.dwyl.com/preetamlenka3/https://githubcom/preetamlenka3/preetamlenka3.svg?style=flat-square&show=unique)](http://hits.dwyl.com/preetamlenka3/https://githubcom/preetamlenka3/preetamlenka3)
 </div>
 
 <br/>
